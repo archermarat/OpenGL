@@ -1,1 +1,1 @@
-# Introduction to OpenGL. C++. 2021
+# Introduction to OpenGL. C/C++. 2021
